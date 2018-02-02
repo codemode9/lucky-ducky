@@ -5,40 +5,54 @@
     background-size: cover;
     background-image: url(../images/ducks-bg.jpg);
 }
-.container {
-    height: 100vh;
-}
-
-.contactus {
-    color: #ffd45c;
-}
-.row-1 {
-    height: 300px;
-}
-.main-heading {
-    text-align: center;
-    position: relative;
-    top: -20px;
-}
-.page-top {
-    position: relative;
-    top: 50px;
-    color: #ffd45c;
-    font-size: 125px;
-    font-family: 'Rammetto One', cursive;
-}
-.coming-soon {
-    position: relative;
-    top: 75px;
-}
 
 .container {
-  /* background-color: white; */
-  /* height: 350px; */
   margin: 0 auto;
   width: 100%;
 }
 
+.contactus {
+    color: white;
+    font-size: 16px;
+}
+
+.main-heading {
+    text-align: center;
+    position: relative;
+    top: -20px;
+    height: 100vh;
+}
+.page-top {
+    position: relative;
+    top: 50px;
+    color: #f5cc44;
+    font-size: 125px;
+    font-family: 'Rammetto One', cursive;
+    text-shadow: 0 0 25px black;
+}
+
+.coming-soon {
+  color: #ffd45c;
+  font-size: 55px;
+  font-family: 'Rammetto One', cursive;
+  padding-top: 20px;
+  text-shadow: 0 0 25px black;
+}
+
+.form-container {
+  background-color: rgba(152, 113, 159, 0.8);
+  margin-top: 100px;
+  padding: 15px;
+  width: 100%;
+}
+
+.form-horizontal {
+  margin: 10px 50px;
+}
+
+/* end of initial view landing page section */
+
+/* start of 3 col section with info, song and address */
 .info-container h2 {
   color: #ffd45c;
   text-align: center;
@@ -81,7 +95,9 @@
 .location-map {
 
 }
+/* end of middle section with info, song, addr4ess */
 
+/* start of some of the ducks we sell section */
 .items-col {
   height: 180px;
 }
