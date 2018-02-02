@@ -1,3 +1,16 @@
 body {
+    height: 100%;
+}
+.bg {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
     background-image: url(../images/ducks-bg.jpg);
+}
+.container {
+    height: 100vh;
+}
+
+.contactus {
+    color: rgb(0, 255, 234);
 }
