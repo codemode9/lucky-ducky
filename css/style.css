@@ -10,7 +10,7 @@
 }
 
 .contactus {
-    color: rgb(0, 255, 234);
+    color: #ffd45c;
 }
 .row-1 {
     height: 300px;
@@ -23,9 +23,9 @@
 .page-top {
     position: relative;
     top: 50px;
-    color: rgb(0, 255, 234);
-    font-size: 75px;
-    font-family: Lucida;
+    color: #ffd45c;
+    font-size: 125px;
+    font-family: 'Rammetto One', cursive;
 }
 
 .info-container {
