@@ -1,6 +1,4 @@
-body {
-    height: 100%;
-}
+
 .bg {
     height: 100%;
     background-position: center;
@@ -16,6 +14,18 @@ body {
 }
 .row-1 {
     height: 300px;
+}
+.main-heading {
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.page-top {
+    position: relative;
+    top: 50px;
+    color: rgb(0, 255, 234);
+    font-size: 75px;
+    font-family: Lucida;
 }
 
 .info-container {
