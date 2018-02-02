@@ -21,6 +21,8 @@ body {
 .info-container {
   background-color: white;
   height: 350px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .info-container h2 {
@@ -65,3 +67,17 @@ body {
 .location-map {
 
 }
+
+.items-col {
+  height: 180px;
+}
+
+  .items-col img {
+    float: left;
+    height: 150px;
+    width: auto;
+  }
+  .items-col p {
+    font-size: 14px;
+    padding-top: 30px;
+  }
