@@ -6,6 +6,7 @@ body {
     background-position: center;
     background-size: cover;
     background-image: url(../images/ducks-bg.jpg);
+<<<<<<< HEAD
 }
 .container {
     height: 100vh;
@@ -14,3 +15,56 @@ body {
 .contactus {
     color: rgb(0, 255, 234);
 }
+=======
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.info-container {
+  background-color: white;
+  height: 350px;
+}
+
+.info-container h2 {
+  color: #ffd45c;
+  text-align: center;
+}
+
+.info-column {
+  padding: 35px 55px;
+}
+
+.about-col {
+  background-color: #2b66a7;
+  color: #fbfeff;
+  height: 350px;
+}
+
+.duck-song-col {
+  background-color: #e6676f;
+  color: #111111;
+  height: 350px;
+}
+
+.contact-info-col {
+  background-color: #43aa5b;
+  color: #fbfeff;
+  height: 350px;
+}
+
+.song-quote {
+  font-size: 38px;
+}
+
+.musical-note {
+  height: 20px;
+}
+
+.address p {
+  font-size: 16px;
+}
+
+.location-map {
+
+}
+>>>>>>> 6a289de39355c6bdf4a39486a08ab856fbfecdc2
