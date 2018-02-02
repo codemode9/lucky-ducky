@@ -27,6 +27,10 @@
     font-size: 125px;
     font-family: 'Rammetto One', cursive;
 }
+.coming-soon {
+    position: relative;
+    top: 75px;
+}
 
 .info-container {
   background-color: white;
