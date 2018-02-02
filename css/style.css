@@ -28,11 +28,11 @@
     font-family: Lucida;
 }
 
-.info-container {
-  background-color: white;
-  height: 350px;
-  width: 100%;
+.container {
+  /* background-color: white; */
+  /* height: 350px; */
   margin: 0 auto;
+  width: 100%;
 }
 
 .info-container h2 {
@@ -91,3 +91,7 @@
     font-size: 14px;
     padding-top: 30px;
   }
+
+.duck-list-container {
+  background-color: white;
+}
